@@ -1,7 +1,7 @@
 
-#### DFS by Gautam Saini and Shilpi FNU ####
+# DFS by Gautam Saini and Shilpi FNU #
 
-Exhaustive path finding between two locations/cities from a given graph using depth first method.
+## Exhaustive path finding between two locations/cities from a given graph using depth first method.
 
 Run script using &quot;python main.py&quot; then
 
@@ -70,7 +70,7 @@ Total alphanumeric DFS path length: 3496.4356236230024
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Tracing alternative 4 DFS path in total available combination: 536870912
+**Tracing alternative 4 DFS path in total available combination: 536870912**
 
 Alternative Path 1: [&#39;A1&#39;, &#39;B1&#39;, &#39;B2&#39;, &#39;C2&#39;, &#39;C3&#39;, &#39;C4&#39;, &#39;B4&#39;, &#39;B5&#39;, &#39;A4&#39;, &#39;A5&#39;, &#39;C5&#39;, &#39;D5&#39;, &#39;D4&#39;, &#39;E4&#39;, &#39;E5&#39;, &#39;F5&#39;, &#39;G5&#39;, &#39;G4&#39;, &#39;G2&#39;, &#39;G1&#39;]
 

@@ -1,7 +1,7 @@
 
 # DFS by Gautam Saini and Shilpi FNU #
 
-## Exhaustive path finding between two locations/cities from a given graph using depth first method.
+## Optimized path finding between two locations/cities from a given graph using depth first method.
 
 Run script using &quot;python main.py&quot; then
 
